@@ -1,10 +1,8 @@
 package MainPackage;
 
-/**
- *
- * @author juliano
- */
+//GroceryProductFactory Interface to be implemented
+//by different factories.
 public interface GroceryProductFactory {
-    public void createApple();
-    public void createBannana();
+    public Apple createApple();
+    public Banana createBanana();
 }

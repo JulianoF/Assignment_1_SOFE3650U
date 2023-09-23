@@ -1,0 +1,2 @@
+Apple , 1.50
+Banana , 2.00
