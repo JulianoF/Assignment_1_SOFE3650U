@@ -9,9 +9,13 @@ This Repo is for Assignment 1 for class SOFE3650U.
 > your linux distro given you have java installed.
 
 ```
+mkdir YourDirectoryName
+
+cd YourDirectoryName
+
 git clone https://github.com/JulianoF/Assignment_1_SOFE3650U.git
 
-cd /Assignment_1_SOFE3650/src/main/java
+cd Assignment_1_SOFE3650U/Assignment_1_SOFE3650/src/main/java
 
 javac -classpath -sourcepath TestPackage/Assignment_1_SOFE3650.java MainPackage/*.java
 
