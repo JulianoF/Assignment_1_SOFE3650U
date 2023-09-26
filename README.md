@@ -39,3 +39,6 @@ java TestPackage/Assignment_1_SOFE3650
 > ProductList.txt appears twice to allow for seemless running on either linux or windows.
 # Test Method Execution Snippets
 
+![Alt text](/MainDriverJavaCode.jpg?raw=true "Main Java Code")
+
+![Alt text](/TestRun.jpg?raw=true "Run From Following Steps")
