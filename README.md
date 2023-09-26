@@ -1,8 +1,9 @@
 # Assignment 1 SOFE3650U
 This Repo is for Class SOFE3650U, Assignment 1.
+Done by Group 2.
 
 # Setup and Install
-> [!NOTE]
+> [!IMPORTANT]
 > These commands below will allow you to run this code on
 > your linux distro given you have java installed.
 
@@ -34,6 +35,7 @@ java TestPackage/Assignment_1_SOFE3650
 	- ProductList.txt : Contains a list of Fruit and their price
 - ProductList.txt : Contains a list of Fruit and their price
 - pom.xml : Project Configuration File, Used by Maven to build the project
-
+> [!NOTE]
+> ProductList.txt appears twice to allow for seemless running on either linux or windows.
 # Test Method Execution Snippets
 
