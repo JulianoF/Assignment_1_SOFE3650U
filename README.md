@@ -38,7 +38,12 @@ java TestPackage/Assignment_1_SOFE3650
 > [!NOTE]
 > ProductList.txt appears twice to allow for seemless running on either linux or windows.
 # Test Method Execution Snippets
+### Test Driver Code
+This test driver code creates a Banana Factory and Apple Factory. Using
+these factories, the relevant Apple and Banana Objects can be created
+with one method allowing complex instantiation to be handled automatically.
+![Alt text](/MainDriverJavaCode.png?raw=true "Main Java Code")
 
-![Alt text](/MainDriverJavaCode.jpg?raw=true "Main Java Code")
-
-![Alt text](/TestRun.jpg?raw=true "Run From Following Steps")
+### Running Following Steps
+Following the steps as found above in the install section to execute the code
+![Alt text](/TestRun.png?raw=true "Run From Following Steps")
