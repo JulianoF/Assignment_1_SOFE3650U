@@ -2,6 +2,9 @@
 This Repo is for Class SOFE3650U, Assignment 1.
 Done by Group 2.
 
+###### Members
+Juliano Falotico (100658311)
+
 # Setup and Install
 > [!IMPORTANT]
 > These commands below will allow you to run this code on
