@@ -6,6 +6,7 @@ Done by Group 2.
 Juliano Falotico (100658311)
 Dmitri Rios Nadeau (100783206)
 Jordan Frost Hagedorn (100828122)
+Ejiroghene Emmanuel Emore(100827336)
 
 # Setup and Install
 > [!IMPORTANT]
