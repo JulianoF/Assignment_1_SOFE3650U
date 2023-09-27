@@ -5,6 +5,7 @@ Done by Group 2.
 ##### Members
 Juliano Falotico (100658311)
 Dmitri Rios Nadeau (100783206)
+Jordan Frost Hagedorn (100828122)
 
 # Setup and Install
 > [!IMPORTANT]
